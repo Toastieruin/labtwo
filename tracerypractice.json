@@ -1,0 +1,86 @@
+{
+	"name": [
+		"John",
+		"Rachel",
+		"Greg",
+		"Mel",
+		"Adam",
+		"Kris"
+	],
+	"occupation": [
+		"chef",
+		"barista",
+		"student",
+		"professor",
+		"movie star",
+		"veterinarian"
+	],
+	"expecting": [
+		"anticipating",
+		"awaiting",
+		"fearing",
+		"worrying",
+		"envisioning",
+		"scheming"
+	],
+	"always": [
+		"rarely",
+		"sometimes",
+		"never",
+		"repeatedly",
+		"conistently",
+		"frequently"
+	],
+	"name2": [
+		"Kenny",
+		"David",
+		"Neil",
+		"Mario",
+		"Ricardo",
+		"Tyrone"
+	],
+	"companion": [
+		"rival",
+		"friend",
+		"partner",
+		"co-worker",
+		"competator",
+		"ally",
+		"student"
+	],
+	"person": [
+		"you read",
+		"you see",
+		"happened",
+		"transpired",
+		"ensued"
+	],
+	"never": [
+		"can't",
+		"won't",
+		"couldn't",
+		"will not"
+	],
+	"believe": [
+		"expect",
+		"believe",
+		"suspect",
+		"imagine",
+		"guess"
+	],
+	"future": [
+		"next",
+		"after",
+		"later",
+		"then"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this from their #companion#, #name2#. If you know #name#, you #never# #believe# what #person# #future#. Click here to find out more: #url#"
+	],
+	"url": [
+		"clickbait.com",
+		"clickme.com",
+		"thisisgarbage.com",
+		"idkwhy.com"
+	]
+}
